@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b750bf32-8471-4320-919c-bd0a4ee77bf4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/fileColors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00443stringCompression/00443stringCompression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00443stringCompression/output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00443stringCompression/sampleinput1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode.apkg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_windows/git.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_windows/keymap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_windows/laf.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codestyles/Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/colors.scheme.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/colors/Monokai Sublime Text 3.icls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/databaseDrivers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debugger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/editor.codeinsight.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filetypes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/find.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk.table.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.lnf.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/updates.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/00443stringCompression/00443stringCompression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="138">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -63,6 +37,8 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="D:\tools\programming\Git\bin\git.exe" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -76,8 +52,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1915" />
-    <option name="y" value="179" />
+    <option name="x" value="1697" />
+    <option name="y" value="2" />
     <option name="width" value="2704" />
     <option name="height" value="1343" />
   </component>
@@ -86,6 +62,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,7 +74,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -105,7 +81,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -120,7 +96,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="443stringCompression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="00443stringCompression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +109,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/443stringCompression/443stringCompression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00443stringCompression/00443stringCompression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,8 +120,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.443stringCompression" />
-        <item itemvalue="Python.443stringCompression" />
+        <item itemvalue="Python.00443stringCompression" />
+        <item itemvalue="Python.00443stringCompression" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +136,7 @@
       <option name="presentableId" value="Default" />
       <updated>1536470518791</updated>
       <workItem from="1567738207340" duration="883000" />
+      <workItem from="1567743510915" duration="493000" />
     </task>
     <task id="LOCAL-00001" summary="change file name">
       <created>1567742260484</created>
@@ -172,12 +149,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1883000" />
+    <option name="totallyTimeSpent" value="2943000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1915" y="179" width="2704" height="1343" extended-state="0" />
+    <frame x="1697" y="2" width="2704" height="1343" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49849397" visible="true" weight="0.15128593" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49849397" visible="true" weight="0.15242058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50150603" side_tool="true" weight="0.15274365" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -188,7 +166,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" visible="true" weight="0.32940185" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3289256" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32919255" />
@@ -208,27 +186,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="change file name" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/443stringCompression/sampleinput1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/443stringCompression/output">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/443stringCompression/443stringCompression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/443stringCompression/sampleinput1" />
+    <entry file="file://$PROJECT_DIR$/443stringCompression/output" />
+    <entry file="file://$PROJECT_DIR$/443stringCompression/443stringCompression.py" />
     <entry file="file://$PROJECT_DIR$/00443stringCompression/00443stringCompression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="138">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
         </state>
       </provider>
     </entry>
