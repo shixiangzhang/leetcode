@@ -1,2 +1,7 @@
 #Ignore folder
 .idea/
+_windows/
+colors/
+
+#Ignore file
+*.xml
