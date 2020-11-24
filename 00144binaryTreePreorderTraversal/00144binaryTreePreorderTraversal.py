@@ -21,6 +21,7 @@ class Solution1:
 #iteration
 #runtime o(n)
 #space O(h) h is height of the tree, worst o(n), average o(logn)
+#space O(h), you can imagine the stack length you only need h, becasue when it pop, it reduce the length, when tree depth increase, it increase the length.
 class Solution2:
     def preorderTraversal(self, root: TreeNode) -> List[int]:
         if not root:
