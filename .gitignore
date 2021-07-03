@@ -6,5 +6,7 @@ colors/
 
 #Ignore file
 *.xml
+*.exe
+.*
 tempCodeRunnerFile.python
 
