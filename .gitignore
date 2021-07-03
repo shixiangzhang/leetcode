@@ -2,6 +2,9 @@
 .idea/
 _windows/
 colors/
+.vscode/
 
 #Ignore file
 *.xml
+tempCodeRunnerFile.python
+
